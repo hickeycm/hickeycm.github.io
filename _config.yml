@@ -1,0 +1,12 @@
+# Site settings
+title: Christopher Hickey
+email: hickeycm@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Software engineer exploring all aspects of technology, sports, life, the universe and everything.
+baseurl: ""
+url: "https://hickeycm.github.io"
+twitter_username: hickeycm
+github_username:  hickeycm
+
+# Build settings
+markdown: kramdown
